@@ -16,4 +16,5 @@ This repository was created for English 105 class Spring semester 2024.
 ### **Data Visualization**
 - Subset was created in Python notebook using the instructions provided and slightly altered in Microsoft Excel to create averages. 
 - Averages created were then used in DataWrapper in order to create visualization.
+![Visual](https://drive.google.com/file/d/1FMXHr6UqGoNH4-pfD1qxLGDV8rN-sQPB/view?usp=sharing)
 
