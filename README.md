@@ -1,5 +1,5 @@
-#**County Public Health Data**
-#####This repository was created for English 105 class Spring semester 2024. 
+#County Public Health Data
+**This repository was created for English 105 class Spring semester 2024.**
 - Provides Raw data as a .csv file.
 - Python notebook with instructional material.
    - How to create a subset using the raw data.
